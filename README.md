@@ -6,6 +6,7 @@ The bot also creates a UNIX socket and all the messages sent to that socket are 
 ## Before trying
 
 Before using the **Telegram-nut** make sure to install all the dependencies by running the following command:
+
     pip install -r requirements
 
 Once all the dependencies are installed you need to register a new bot by talking to the __BotFather__.
